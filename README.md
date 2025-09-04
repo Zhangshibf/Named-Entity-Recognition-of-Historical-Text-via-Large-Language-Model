@@ -51,7 +51,7 @@ python -m src.main {dataset_name} {dataset_lang} {split} 0 coarse {prompt_method
 | ajmc | de, en, fr |
 | hipe2020 | de, en, fr |
 | letemps | fr |
-| newseyechunked | de, fi, fr, sv |
+| newseye | de, fi, fr, sv |
 | sonar | de |
 | topres19th | en |
 
