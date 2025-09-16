@@ -26,7 +26,7 @@ python -m src.main {dataset_name} {dataset_lang} {split} 0 coarse {prompt_method
 - **dataset_lang**: The language of the dataset
 - **split**: Data split to use (`train`, `dev`, or `test`)
 - **prompt_method**: The prompting method to use (see available methods below)
-- **APIkey**: Your DeepSeek API key
+- **APIkey**: Your DeepSeek API key (you need to pay for it yourself)
 - **subfolder**: Folder name where predictions will be saved
 
 #### Available Prompt Methods
